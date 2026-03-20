@@ -1,5 +1,5 @@
 {
-    "name": "denis660/laravel-centrifugo",
+    "name": "pavelmgn/laravel-centrifugo",
     "description": "Centrifugo broadcaster for laravel",
     "keywords": [
         "laravel-broadcaster",
@@ -20,11 +20,11 @@
             "role": "Creator"
         }
     ],
-    "homepage": "https://github.com/denis660/laravel-centrifugo",
+    "homepage": "https://github.com/pavelmgn/laravel-centrifugo",
     "support": {
         "email": "amx-serv@ya.ru",
-        "issues": "https://github.com/denis660/laravel-centrifugo/issues",
-        "source": "https://github.com/denis660/laravel-centrifugo"
+        "issues": "https://github.com/pavelmgn/laravel-centrifugo/issues",
+        "source": "https://github.com/pavelmgn/laravel-centrifugo"
     },
     "require": {
         "php": "^8.0",
